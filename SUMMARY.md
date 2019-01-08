@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Hi TTT](README.md)
+* [Hi](README.md)
 
